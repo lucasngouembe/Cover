@@ -1,0 +1,1 @@
+rails generate scaffold Album title:string year:integer artist:string image_url:string
